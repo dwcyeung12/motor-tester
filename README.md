@@ -3,7 +3,7 @@
 A local browser-based test bench for Hiwonder HTD-45H bus servos and ZL 370 bus motors. It helps you connect to a serial adapter, verify device IDs, test individual devices, and run short four-wheel drive patterns without sending data to a cloud service.
 
 > **Safety first:** Lift the robot's wheels off the ground before testing. Use the correct external power supply, keep a physical power switch within reach, and verify one wheel at a time. A stop command is not a guaranteed emergency stop.
-
+**Live app:** <https://dwcyeung12.github.io/motor-tester/>
 ## Features
 
 - Local Web Serial connection from a supported Chromium-based browser
